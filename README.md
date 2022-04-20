@@ -7,18 +7,18 @@ JavaScript öğrenmeye devam ederken, bilgilerimi pekiştirmek adına pratikler 
 **Uygulamaya Ait Bazı Görseller**
 
 
-![Giriş](![todo1](https://user-images.githubusercontent.com/79478025/164329140-6dbf64d9-5ab7-4df9-a0ff-0e16f00b5500.png)
+![Giriş](./img/img2/todo1.png)
 )
 
 
-![Ekleme](![todo2](https://user-images.githubusercontent.com/79478025/164329253-66372037-2298-4f3b-9095-30744e962ae8.png)
+![Ekleme](https://user-images.githubusercontent.com/79478025/164329253-66372037-2298-4f3b-9095-30744e962ae8.png)
 )
 
 
-![Ekleme](![todo3](https://user-images.githubusercontent.com/79478025/164329295-24a1e92f-4e17-42a2-8633-957acc646b40.png))
+![Ekleme](https://user-images.githubusercontent.com/79478025/164329295-24a1e92f-4e17-42a2-8633-957acc646b40.png)
 
 
-![checked](![todo4](https://user-images.githubusercontent.com/79478025/164329402-b43dd12a-4850-4778-8cf1-72f1d07252a3.png)
+![checked](https://user-images.githubusercontent.com/79478025/164329402-b43dd12a-4850-4778-8cf1-72f1d07252a3.png)
 )
 
 ***
