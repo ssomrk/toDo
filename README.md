@@ -8,11 +8,11 @@ JavaScript öğrenmeye devam ederken, bilgilerimi pekiştirmek adına pratikler 
 
 
 ![Giriş](./img/img2/todo1.png)
-)
+
 
 
 ![Ekleme](https://user-images.githubusercontent.com/79478025/164329253-66372037-2298-4f3b-9095-30744e962ae8.png)
-)
+
 
 
 ![Ekleme](https://user-images.githubusercontent.com/79478025/164329295-24a1e92f-4e17-42a2-8633-957acc646b40.png)
