@@ -6,16 +6,16 @@ JavaScript öğrenmeye devam ederken, bilgilerimi pekiştirmek adına pratikler 
 
 **Uygulamaya Ait Bazı Görseller**
 
-Herhangi bir girdi yokken :
+
 ![Giriş](./img/img2/todo1.png)
 
-Ekleme butonu tıklandığında :
+
 ![Ekleme](./img/img2/todo2.png)
 
-Eleman eklendiği zaman :
+
 ![Ekleme](./img/img2/todo3.png)
 
-Eklenen iş gerçekleştiği zaman : 
+
 ![checked](./img/img2/todo4.png)
 
 ***
