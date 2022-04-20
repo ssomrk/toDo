@@ -19,7 +19,7 @@ JavaScript öğrenmeye devam ederken, bilgilerimi pekiştirmek adına pratikler 
 
 
 ![checked](https://user-images.githubusercontent.com/79478025/164329402-b43dd12a-4850-4778-8cf1-72f1d07252a3.png)
-)
+
 
 ***
 
