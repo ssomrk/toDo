@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>ToDoList</title>
+</head>
+<body>
+    <div class="todo__container">
+        <div class="todo__header">
+            <span class="todo__title">YAPILACAKLAR LİSTESİ</span>
+            <img 
+            class="todo__insert-icon btn" 
+            src="./img/insert-icon.svg" 
+            onclick="toggleModal()" />
+        </div>
+        <ul class="todo__list">
+            
+            
+        </ul>
+
+        <div class="todo-modal ">
+            <form id="addTodoForm">
+                <div class="todo__modal-body">
+                    <input name="title" class="form-control form-input" type="text" placeholder="Başlık">
+                    <textarea name="desc" class="form-control form-textarea" placeholder="Açıklama"></textarea>
+                    <button class="btn btn-save" 
+                    onclick="addToDoItems()"> 
+                    <img src="./img/checked.svg">KAYDET</button>
+                </div>
+            </form> 
+        </div>
+    </div>
+    
+    <script src="./app.js"></script>
+</body>
+</html>
